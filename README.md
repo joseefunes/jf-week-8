@@ -22,6 +22,7 @@ Vulnerability #2: Session Hijacking/Fixation
 ## Green
 
 Vulnerability #1:Cross-Site Scripting (XSS)
+![xss green](https://user-images.githubusercontent.com/37880874/40813678-fc74aa5e-64f0-11e8-9f7d-e614d4e6326f.gif)
 
 Vulnerability #2: Username Enumeration
 
